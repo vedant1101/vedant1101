@@ -16,7 +16,7 @@
 </div>
 
 ## LINKS:
-<div align="left"> 
+<div display="flex"> 
 <a href="http://www.linkedin.com/in/vedant-sahai-7b6bb7285"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"></a>
 <h1>💼</h1>
 </div>

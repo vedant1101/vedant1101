@@ -15,4 +15,5 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
 </div>
 
-
+LINKS:
+<img src="https://www.flaticon.com/free-icon/curriculum-vitae_909212"></img>

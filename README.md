@@ -16,4 +16,4 @@
 </div>
 
 LINKS:
-<img src="https://www.flaticon.com/free-icon/curriculum-vitae_909212"></img>
+<h1>CV</h1>

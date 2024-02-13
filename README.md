@@ -19,4 +19,4 @@
 <a href="http://www.linkedin.com/in/vedant-sahai-7b6bb7285"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"></a>
 
 ## CV:
-<a href="https://drive.google.com/file/d/1uRjr8QLbAunsnc6j8KY70Dil2nNDSaMZ/view?usp=drivesdk"><h1>📂</h1></a>
+<a href="https://drive.google.com/file/d/1uRjr8QLbAunsnc6j8KY70Dil2nNDSaMZ/view?usp=drivesdk"><img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="E-Mail" width="120" /></a>

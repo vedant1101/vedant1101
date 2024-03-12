@@ -1,21 +1,13 @@
-
-
-
 ## SKILLS:
-<div align="center">
- <img src="https://github.com/vedant1101/vedant1101/assets/115668347/79016931-fc31-49e1-bc93-fe294991772f" width="100"> 
-<img src="https://github.com/vedant1101/vedant1101/assets/115668347/899de46c-695a-43dd-8ea8-7552b550802a" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">  
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="100">
-  <img src="https://github.com/vedant1101/vedant1101/assets/115668347/15bdcec9-cf6b-44bb-a1d4-ef2edbd62102" width="100">
-
+<div>
+ <img src="https://github.com/vedant1101/vedant1101/assets/115668347/79016931-fc31-49e1-bc93-fe294991772f" height="95",width="100"> 
+<img src="https://github.com/vedant1101/vedant1101/assets/115668347/bf0257b9-0243-4a5d-b559-3a3f8c88aec6" width="100">
+<img src="https://github.com/vedant1101/vedant1101/assets/115668347/f9d2c96d-f101-43ad-854b-6822a51930fe" width="100">
+  <img src="https://github.com/vedant1101/vedant1101/assets/115668347/0211dd59-c57a-4e4e-bd4a-0dec125ead60" width="100">  
+  <img src="https://github.com/vedant1101/vedant1101/assets/115668347/e9fae745-356f-49ce-8261-d356d9bde4f0" width="100">
+  <img src="https://github.com/vedant1101/vedant1101/assets/115668347/4663b93b-1355-4605-a6d9-688102627f71" width="100">
 </div>
 
-## LINKS:
-<a href="http://www.linkedin.com/in/vedant-sahai-7b6bb7285"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"></a>
 
 ## CV:
 <a href="https://drive.google.com/file/d/1uRjr8QLbAunsnc6j8KY70Dil2nNDSaMZ/view?usp=drivesdk"><img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="E-Mail" width="120" /></a>

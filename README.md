@@ -1,5 +1,4 @@
-![Python-Dark](https://github.com/vedant1101/vedant1101/assets/115668347/97d569ca-a2bf-4c41-af28-3733cfb40fcf)<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
-<br><br>
+
 
 ## SKILLS:
 <div align="center">

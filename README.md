@@ -1,3 +1,6 @@
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
+<br><br>
+
 ## SKILLS:
 <div>
  <img src="https://github.com/vedant1101/vedant1101/assets/115668347/79016931-fc31-49e1-bc93-fe294991772f" height="95",width="100"> 

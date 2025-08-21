@@ -13,19 +13,35 @@
 
 ## 🏢 Professional GitHub Activity
 
-Check out my work contributions on my company account:
+Check out my work contributions on my company account: [@vedant-Bigshorts](https://github.com/vedant-Bigshorts)
 
-[![Company GitHub](https://img.shields.io/badge/Company%20GitHub-@vedant--Bigshorts-blue?style=for-the-badge&logo=github)](https://github.com/vedant-Bigshorts)
+### 📊 GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vedant-Bigshorts&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true)
 
-<!-- GitHub README Stats -->
-![Company Stats](https://github-readme-stats.vercel.app/api?username=vedant-Bigshorts&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
+### 🔥 Contribution Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=vedant-Bigshorts&theme=dark&hide_border=true)
 
-<!-- Streak Stats -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=vedant-Bigshorts&theme=dark)
+### 📈 Contribution Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vedant-Bigshorts&theme=react-dark&hide_border=true&area=true)
 
-<!-- Activity Graph -->
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vedant-Bigshorts&theme=react-dark)
+### 🎯 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-Bigshorts&layout=compact&theme=dark&count_private=true&hide_border=true)
 
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-Bigshorts&layout=compact&theme=dark&count_private=true)
+### 🏆 Profile Trophy
+![Trophy](https://github-profile-trophy.vercel.app/?username=vedant-Bigshorts&theme=darkhub&no-frame=true&margin-w=15)
+
+### 📋 Profile Summary
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedant-Bigshorts&theme=github_dark)
+
+![Stats Overview](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vedant-Bigshorts&theme=github_dark)
+
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vedant-Bigshorts&theme=github_dark)
+
+### 📱 Additional Metrics
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vedant-Bigshorts&theme=github_dark)
+
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vedant-Bigshorts&theme=github_dark&utcOffset=5.5)
+
+---
+*📅 Stats update automatically • 🔒 Includes private repository contributions*
 

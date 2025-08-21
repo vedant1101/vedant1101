@@ -8,7 +8,7 @@
   
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="35" /> Hey there! I'm **Vedant** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="35" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=🚀+Full+Stack+Tech+Lead;👨‍💻+Leading+Development+Teams;🎯+Architecting+Scalable+Solutions;✨+Building+Enterprise+Applications!;🌟+Mentoring+%26+Code+Reviews" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Tech+Lead;Architecting+Scalable+Solutions;Leading+Development+Teams" alt="Typing SVG" />
 
 <br>
 

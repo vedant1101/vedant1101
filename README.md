@@ -131,7 +131,37 @@
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vedant-Bigshorts&theme=tokyonight" width="400"/>
     </td>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vedant-Bigshorts&theme=tokyonight" width="400"/>
+      <div align="center" style="background: #1a1b27; border-radius: 15px; padding: 20px; width: 370px; border: 1px solid #30363d;">
+        <h3 style="color: #70a5fd; margin-top: 0; margin-bottom: 20px; font-size: 16px;">🏆 Top Languages by Commits</h3>
+        
+        <div style="margin-bottom: 20px; padding: 15px; background: #0d1117; border-radius: 10px;">
+          <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
+            <img src="https://skillicons.dev/icons?i=ts" width="24" height="24" style="margin-right: 8px;">
+            <h4 style="color: #3178c6; margin: 0; font-size: 18px;">TypeScript</h4>
+          </div>
+          <p style="color: #c9d1d9; margin: 5px 0; font-size: 13px;">
+            <strong>🎯 Primary Language</strong><br>
+            Used for: Enterprise applications, Full-stack development<br>
+            Expertise: Advanced type safety & scalable architecture
+          </p>
+        </div>
+
+        <div style="padding: 15px; background: #0d1117; border-radius: 10px;">
+          <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
+            <img src="https://skillicons.dev/icons?i=css" width="24" height="24" style="margin-right: 8px;">
+            <h4 style="color: #1572b6; margin: 0; font-size: 18px;">CSS</h4>
+          </div>
+          <p style="color: #c9d1d9; margin: 5px 0; font-size: 13px;">
+            <strong>🎨 Styling Expert</strong><br>
+            Used for: Modern UI/UX, Responsive design<br>
+            Expertise: Advanced animations & component styling
+          </p>
+        </div>
+        
+        <p style="color: #38bdae; margin: 15px 0 0 0; font-size: 11px;">
+          <em>Based on actual commit analysis from company repositories</em>
+        </p>
+      </div>
     </td>
   </tr>
   <tr>

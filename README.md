@@ -113,10 +113,6 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" alt="🔍" width="35" /> **DETAILED ANALYTICS DASHBOARD**
 
 <div align="center">
@@ -144,12 +140,6 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-
-
 ## 🌟 **LET'S CONNECT & COLLABORATE**
 
 <div align="center">
@@ -162,14 +152,14 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://linkedin.com/in/vedant-sahai-7b6bb7285)">
+      <a href="https://www.linkedin.com/in/vedant-sahai-7b6bb7285">
         <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=1E88E5"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="mailto:vedant11112001@gmail.com">
+      <a href="mailto:your.email@example.com">
         <img src="https://img.shields.io/badge/📧%20Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=E53935"/>
       </a>
     </td>

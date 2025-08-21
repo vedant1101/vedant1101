@@ -2,152 +2,265 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
 </div>
 
-<div align="center">
-  
-# 👋 Hey there! I'm Vedant
-### 🚀 Full Stack Developer | 💻 Tech Enthusiast | 🎯 Problem Solver
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+learning+new+things;Building+amazing+projects!)](https://git.io/typing-svg)
-
-</div>
-
----
-
-## 🛠️ **MY TECH ARSENAL**
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="140">
-        <img src="https://github.com/vedant1101/vedant1101/assets/115668347/79016931-fc31-49e1-bc93-fe294991772f" height="95" width="100">
-        <br><strong>JavaScript</strong>
-      </td>
-      <td align="center" width="140">
-        <img src="https://github.com/vedant1101/vedant1101/assets/115668347/bf0257b9-0243-4a5d-b559-3a3f8c88aec6" width="100">
-        <br><strong>React</strong>
-      </td>
-      <td align="center" width="140">
-        <img src="https://github.com/vedant1101/vedant1101/assets/115668347/f9d2c96d-f101-43ad-854b-6822a51930fe" width="100">
-        <br><strong>Node.js</strong>
-      </td>
-      <td align="center" width="140">
-        <img src="https://github.com/vedant1101/vedant1101/assets/115668347/0211dd59-c57a-4e4e-bd4a-0dec125ead60" width="100">
-        <br><strong>Python</strong>
-      </td>
-      <td align="center" width="140">
-        <img src="https://github.com/vedant1101/vedant1101/assets/115668347/e9fae745-356f-49ce-8261-d356d9bde4f0" width="100">
-        <br><strong>MongoDB</strong>
-      </td>
-      <td align="center" width="140">
-        <img src="https://github.com/vedant1101/vedant1101/assets/115668347/4663b93b-1355-4605-a6d9-688102627f71" width="100">
-        <br><strong>Docker</strong>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🏢 **PROFESSIONAL GITHUB ACTIVITY**
+<br>
 
 <div align="center">
   
-**🔗 Check out my work contributions:** **[@vedant-Bigshorts](https://github.com/vedant-Bigshorts)**
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="35" /> Hey there! I'm **Vedant** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="35" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Developer;💻+Tech+Enthusiast;🎯+Problem+Solver;✨+Building+Amazing+Projects!;🌟+Always+Learning+New+Things" alt="Typing SVG" />
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
-### 📅 **Contribution Calendar**
+<br>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="🛠️" width="35" /> **MY TECH ARSENAL**
+
 <div align="center">
   
+<table>
+  <tr>
+    <td align="center" width="150" style="border: none;">
+      <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; padding: 20px; margin: 10px;">
+        <img src="https://github.com/vedant1101/vedant1101/assets/115668347/79016931-fc31-49e1-bc93-fe294991772f" height="80" width="80">
+        <br><br>
+        <strong style="color: #F7DF1E;">JavaScript</strong>
+      </div>
+    </td>
+    <td align="center" width="150" style="border: none;">
+      <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 15px; padding: 20px; margin: 10px;">
+        <img src="https://github.com/vedant1101/vedant1101/assets/115668347/bf0257b9-0243-4a5d-b559-3a3f8c88aec6" height="80" width="80">
+        <br><br>
+        <strong style="color: #61DAFB;">React</strong>
+      </div>
+    </td>
+    <td align="center" width="150" style="border: none;">
+      <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 15px; padding: 20px; margin: 10px;">
+        <img src="https://github.com/vedant1101/vedant1101/assets/115668347/f9d2c96d-f101-43ad-854b-6822a51930fe" height="80" width="80">
+        <br><br>
+        <strong style="color: #68A063;">Node.js</strong>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150" style="border: none;">
+      <div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); border-radius: 15px; padding: 20px; margin: 10px;">
+        <img src="https://github.com/vedant1101/vedant1101/assets/115668347/0211dd59-c57a-4e4e-bd4a-0dec125ead60" height="80" width="80">
+        <br><br>
+        <strong style="color: #3776AB;">Python</strong>
+      </div>
+    </td>
+    <td align="center" width="150" style="border: none;">
+      <div style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); border-radius: 15px; padding: 20px; margin: 10px;">
+        <img src="https://github.com/vedant1101/vedant1101/assets/115668347/e9fae745-356f-49ce-8261-d356d9bde4f0" height="80" width="80">
+        <br><br>
+        <strong style="color: #47A248;">MongoDB</strong>
+      </div>
+    </td>
+    <td align="center" width="150" style="border: none;">
+      <div style="background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%); border-radius: 15px; padding: 20px; margin: 10px;">
+        <img src="https://github.com/vedant1101/vedant1101/assets/115668347/4663b93b-1355-4605-a6d9-688102627f71" height="80" width="80">
+        <br><br>
+        <strong style="color: #2496ED;">Docker</strong>
+      </div>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Office%20Building.png" alt="🏢" width="35" /> **PROFESSIONAL GITHUB ACTIVITY**
+
+<div align="center">
+  
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="🔗" width="25" /> **Check out my work contributions:** **[@vedant-Bigshorts](https://github.com/vedant-Bigshorts)**
+
+<br>
+
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px; padding: 30px; margin: 20px;">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Calendar.png" alt="📅" width="30" /> **Contribution Calendar**
+
 ![GitHub Contributions](https://ghchart.rshah.org/vedant-Bigshorts)
 
 </div>
 
-### 📊 **GitHub Statistics Overview**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vedant-Bigshorts&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-Bigshorts&layout=compact&theme=dark&count_private=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&langs_count=8"/>
 </div>
 
-### 🔥 **Contribution Streak**
-<div align="center">
-  
-![GitHub Streak](https://streak-stats.demolab.com/?user=vedant-Bigshorts&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=F85149&currStreakNum=C9D1D9&sideNums=8B949E&currStreakLabel=C9D1D9&sideLabels=8B949E&dates=8B949E)
+<br>
 
-</div>
-
-### 📈 **Activity Timeline**
-<div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vedant-Bigshorts&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=f85149&area=true&hide_border=true&custom_title=Annual%20Contribution%20Activity)
-
-</div>
-
-### 🏆 **Achievement Showcase**
-<div align="center">
-  
-![Trophy](https://github-profile-trophy.vercel.app/?username=vedant-Bigshorts&theme=darkhub&no-frame=true&margin-w=15&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
-
-</div>
-
----
-
-## 📊 **DETAILED ANALYTICS**
-
-<div align="center">
-
-### 🎯 **Profile Summary**
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedant-Bigshorts&theme=github_dark)
-
-### 📈 **Statistical Breakdown**
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vedant-Bigshorts&theme=github_dark" width="400"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vedant-Bigshorts&theme=github_dark" width="400"/>
-
-### 🔍 **Repository Insights**
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vedant-Bigshorts&theme=github_dark" width="400"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vedant-Bigshorts&theme=github_dark&utcOffset=5.5" width="400"/>
-
-</div>
-
----
-
-## 🎨 **ALTERNATIVE CONTRIBUTION THEMES**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="📊" width="35" /> **GITHUB STATISTICS SHOWCASE**
 
 <div align="center">
   
-**🟢 Standard Green**  
+<table>
+  <tr>
+    <td align="center">
+      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=vedant-Bigshorts&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&border_radius=15&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=F85149"/>
+    </td>
+    <td align="center">
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-Bigshorts&layout=compact&theme=tokyonight&count_private=true&hide_border=true&border_radius=15&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" alt="🔥" width="30" /> **Contribution Streak**
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=vedant-Bigshorts&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&stroke=58A6FF&ring=F85149&fire=F85149&currStreakNum=C9D1D9&sideNums=8B949E&currStreakLabel=C9D1D9&sideLabels=8B949E&dates=8B949E)
+
+</div>
+
+<br>
+
+<div align="center">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="📈" width="30" /> **Activity Timeline**
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vedant-Bigshorts&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=F85149&area=true&hide_border=true&border_radius=15&custom_title=✨%20Annual%20Contribution%20Journey)
+
+</div>
+
+<br>
+
+<div align="center">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="🏆" width="30" /> **Achievement Gallery**
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=vedant-Bigshorts&theme=tokyonight&no-frame=true&margin-w=15&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&border_radius=15)
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" alt="🔍" width="35" /> **DETAILED ANALYTICS DASHBOARD**
+
+<div align="center">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Round%20Pushpin.png" alt="📍" width="25" /> **Profile Deep Dive**
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedant-Bigshorts&theme=tokyonight)
+
+<br>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="📈" width="25" /> **Performance Metrics**
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vedant-Bigshorts&theme=tokyonight" width="400"/>
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vedant-Bigshorts&theme=tokyonight" width="400"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vedant-Bigshorts&theme=tokyonight" width="400"/>
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vedant-Bigshorts&theme=tokyonight&utcOffset=5.5" width="400"/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" alt="🎨" width="35" /> **CONTRIBUTION THEME GALLERY**
+
+<div align="center">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Green%20Circle.png" alt="🟢" width="20" /> **Emerald Edition**
 ![Green Calendar](https://ghchart.rshah.org/39d353/vedant-Bigshorts)
 
-**🔵 GitHub Blue**  
+<br>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Blue%20Circle.png" alt="🔵" width="20" /> **Ocean Blue**
 ![Blue Calendar](https://ghchart.rshah.org/0969da/vedant-Bigshorts)
 
-**🟣 Custom Purple**  
+<br>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Purple%20Circle.png" alt="🟣" width="20" /> **Cosmic Purple**
 ![Purple Calendar](https://ghchart.rshah.org/8b5cf6/vedant-Bigshorts)
 
 </div>
 
----
+<br>
 
-## 🌟 **CONNECT WITH ME**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<div align="center">
-  
-[![GitHub Profile](https://img.shields.io/badge/GitHub-vedant--Bigshorts-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vedant-Bigshorts)
-[![Profile Views](https://komarev.com/ghpvc/?username=vedant-Bigshorts&color=58a6ff&style=for-the-badge&label=Profile+Views)](https://github.com/vedant-Bigshorts)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+<br>
 
-</div>
-
----
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Glowing%20Star.png" alt="🌟" width="35" /> **LET'S CONNECT & COLLABORATE**
 
 <div align="center">
-  
-### 🎯 **Fun Fact:** *I love turning complex problems into simple, beautiful solutions!*
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/vedant-Bigshorts">
+        <img src="https://img.shields.io/badge/🏢%20Company%20GitHub-vedant--Bigshorts-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=4A90E2"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://linkedin.com/in/your-profile">
+        <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=1E88E5"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="mailto:your.email@example.com">
+        <img src="https://img.shields.io/badge/📧%20Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=E53935"/>
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://komarev.com/ghpvc/?username=vedant-Bigshorts&color=58a6ff&style=for-the-badge&label=👁️%20Profile%20Views"/>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="💡" width="30" /> **Fun Fact**
+*I love turning complex problems into simple, beautiful solutions! ✨*
+
+<br>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="📝" width="25" /> **Profile Stats Info**
 **📊 Comprehensive stats including private repositories • 🔄 Auto-updates every 24 hours • 🕒 Timezone: IST (UTC+5:30)**
 
----
+<br>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+<br>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Sparkling%20Heart.png" alt="💖" width="25" /> **Thanks for visiting! Have a great day!** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Sparkling%20Heart.png" alt="💖" width="25" />
 
 </div>

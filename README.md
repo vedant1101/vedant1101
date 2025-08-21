@@ -1,3 +1,11 @@
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="💡" width="30" /> **Fun Fact**
+*As a Full Stack Tech Lead, I love turning complex business requirements into elegant, scalable solutions while mentoring amazing developers! ✨*
+
+<br>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="📝" width="25" /> **Profile Stats Info**
+**📊 Comprehensive stats including private repositories • 🔄 Auto-updates every 24 hours • 🕒 Timezone: IST (UTC+5:30)**
+
 <br><div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
 </div>
@@ -131,6 +139,11 @@
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vedant-Bigshorts&theme=tokyonight" width="400"/>
     </td>
     <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-Bigshorts&layout=compact&theme=tokyonight&count_private=true&hide_border=true&border_radius=15&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&hide=html,css" width="400"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vedant-Bigshorts&theme=tokyonight&utcOffset=5.5" width="400"/>
     </td>
   </tr>
@@ -159,7 +172,7 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="mailto:vedant11112001@gmail.com">
+      <a href="mailto:your.email@example.com">
         <img src="https://img.shields.io/badge/📧%20Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=E53935"/>
       </a>
     </td>

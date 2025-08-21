@@ -131,7 +131,7 @@
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vedant-Bigshorts&theme=tokyonight" width="400"/>
     </td>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vedant-Bigshorts&theme=tokyonight" width="400"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-Bigshorts&theme=tokyonight&hide_border=true&border_radius=15&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&layout=compact&langs_count=10&hide=html,css&card_width=400" width="400"/>
     </td>
   </tr>
   <tr>

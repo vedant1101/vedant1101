@@ -1,3 +1,11 @@
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="💡" width="30" /> **Fun Fact**
+*As a Full Stack Tech Lead, I love turning complex business requirements into elegant, scalable solutions while mentoring amazing developers! ✨*
+
+<br>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="📝" width="25" /> **Profile Stats Info**
+**📊 Comprehensive stats including private repositories • 🔄 Auto-updates every 24 hours • 🕒 Timezone: IST (UTC+5:30)**
+
 <br><div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
 </div>
@@ -83,7 +91,7 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Calendar.png" alt="📅" width="30" /> **Contribution Calendar**
 
-![GitHub Contributions](https://ghchart.rshah.org/vedant-Bigshorts)
+![GitHub Contributions](https://ghchart.rshah.org/0969da/vedant-Bigshorts)
 
 </div>
 
@@ -158,30 +166,7 @@
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" alt="🎨" width="35" /> **CONTRIBUTION THEME GALLERY**
 
-<div align="center">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Green%20Circle.png" alt="🟢" width="20" /> **Emerald Edition**
-![Green Calendar](https://ghchart.rshah.org/39d353/vedant-Bigshorts)
-
-<br>
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Blue%20Circle.png" alt="🔵" width="20" /> **Ocean Blue**
-![Blue Calendar](https://ghchart.rshah.org/0969da/vedant-Bigshorts)
-
-<br>
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Purple%20Circle.png" alt="🟣" width="20" /> **Cosmic Purple**
-![Purple Calendar](https://ghchart.rshah.org/8b5cf6/vedant-Bigshorts)
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
 
 ## 🌟 **LET'S CONNECT & COLLABORATE**
 

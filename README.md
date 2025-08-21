@@ -8,7 +8,7 @@
   
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="35" /> Hey there! I'm **Vedant** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="35" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Developer;💻+Tech+Enthusiast;🎯+Problem+Solver;✨+Building+Amazing+Projects!;🌟+Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=🚀+Full+Stack+Tech+Lead;👨‍💻+Leading+Development+Teams;🎯+Architecting+Scalable+Solutions;✨+Building+Enterprise+Applications!;🌟+Mentoring+%26+Code+Reviews" alt="Typing SVG" />
 
 <br>
 
@@ -24,106 +24,57 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="💻" width="25" /> **Programming Languages**
 
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=dart" width="60" height="60">
-      <br><strong>Dart</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=js" width="60" height="60">
-      <br><strong>JavaScript</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=ts" width="60" height="60">
-      <br><strong>TypeScript</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=python" width="60" height="60">
-      <br><strong>Python</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=mysql" width="60" height="60">
-      <br><strong>SQL</strong>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=dart" width="60" height="60" style="margin: 10px;">
+  <img src="https://skillicons.dev/icons?i=js" width="60" height="60" style="margin: 10px;">
+  <img src="https://skillicons.dev/icons?i=ts" width="60" height="60" style="margin: 10px;">
+  <img src="https://skillicons.dev/icons?i=python" width="60" height="60" style="margin: 10px;">
+  <img src="https://skillicons.dev/icons?i=mysql" width="60" height="60" style="margin: 10px;">
+</div>
+
+<div align="center">
+  <strong>Dart</strong> • <strong>JavaScript</strong> • <strong>TypeScript</strong> • <strong>Python</strong> • <strong>SQL</strong>
+</div>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="⚙️" width="25" /> **Frameworks & Libraries**
 
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=flutter" width="60" height="60">
-      <br><strong>Flutter</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="60" height="60">
-      <br><strong>Next.js</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60">
-      <br><strong>Node.js</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=express" width="60" height="60">
-      <br><strong>Express</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=html" width="60" height="60">
-      <br><strong>HTML5 Canvas</strong>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter" width="60" height="60" style="margin: 10px;">
+  <img src="https://skillicons.dev/icons?i=nextjs" width="60" height="60" style="margin: 10px;">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" style="margin: 10px;">
+  <img src="https://skillicons.dev/icons?i=express" width="60" height="60" style="margin: 10px;">
+  <img src="https://skillicons.dev/icons?i=html" width="60" height="60" style="margin: 10px;">
+</div>
+
+<div align="center">
+  <strong>Flutter</strong> • <strong>Next.js</strong> • <strong>Node.js</strong> • <strong>Express</strong> • <strong>HTML5 Canvas</strong>
+</div>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Film%20Projector.png" alt="📽️" width="25" /> **Media Processing**
 
-<table>
-  <tr>
-    <td align="center" width="150">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/FFmpeg_Logo_new.svg" width="60" height="60">
-      <br><strong>FFmpeg</strong>
-    </td>
-    <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60" height="60">
-      <br><strong>HLS Streaming</strong>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/FFmpeg_Logo_new.svg" width="60" height="60" style="margin: 10px;">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hls.svg" width="60" height="60" style="margin: 10px; filter: invert(1);">
+</div>
+
+<div align="center">
+  <strong>FFmpeg</strong> • <strong>HLS Streaming</strong>
+</div>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="🧰" width="25" /> **Databases & Tools**
 
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=mysql" width="60" height="60">
-      <br><strong>MySQL</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=aws" width="60" height="60">
-      <br><strong>AWS S3</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=vercel" width="60" height="60">
-      <br><strong>Vercel</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" width="60" height="60">
-      <br><strong>WebSockets</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=git" width="60" height="60">
-      <br><strong>Git</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=figma" width="60" height="60">
-      <br><strong>Figma</strong>
-    </td>
-    <td colspan="4"></td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" width="60" height="60" style="margin: 10px;">
+  <img src="https://skillicons.dev/icons?i=aws" width="60" height="60" style="margin: 10px;">
+  <img src="https://skillicons.dev/icons?i=vercel" width="60" height="60" style="margin: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" width="60" height="60" style="margin: 10px;">
+  <img src="https://skillicons.dev/icons?i=git" width="60" height="60" style="margin: 10px;">
+  <img src="https://skillicons.dev/icons?i=figma" width="60" height="60" style="margin: 10px;">
+</div>
+
+<div align="center">
+  <strong>MySQL</strong> • <strong>AWS S3</strong> • <strong>Vercel</strong> • <strong>WebSockets</strong> • <strong>Git</strong> • <strong>Figma</strong>
+</div>
 
 </div>
 
@@ -137,7 +88,9 @@
 
 <div align="center">
   
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="🔗" width="25" /> **Check out my work contributions:** **[@vedant-Bigshorts](https://github.com/vedant-Bigshorts)**
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="👨‍💻" width="30" /> **Full Stack Tech Lead** | **[@vedant-Bigshorts](https://github.com/vedant-Bigshorts)**
+
+*Leading development initiatives, architecting scalable solutions, and mentoring development teams*
 
 <br>
 
@@ -278,7 +231,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/vedant-Bigshorts">
-        <img src="https://img.shields.io/badge/🏢%20Company%20GitHub-vedant--Bigshorts-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=4A90E2"/>
+        <img src="https://img.shields.io/badge/🏢%20Tech%20Lead-vedant--Bigshorts-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=4A90E2"/>
       </a>
     </td>
     <td align="center">
@@ -302,7 +255,7 @@
 <br>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="💡" width="30" /> **Fun Fact**
-*I love turning complex problems into simple, beautiful solutions! ✨*
+*As a Full Stack Tech Lead, I love turning complex business requirements into elegant, scalable solutions while mentoring amazing developers! ✨*
 
 <br>
 

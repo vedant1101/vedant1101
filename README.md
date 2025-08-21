@@ -24,57 +24,33 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="💻" width="25" /> **Programming Languages**
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=dart" width="60" height="60" style="margin: 10px;">
-  <img src="https://skillicons.dev/icons?i=js" width="60" height="60" style="margin: 10px;">
-  <img src="https://skillicons.dev/icons?i=ts" width="60" height="60" style="margin: 10px;">
-  <img src="https://skillicons.dev/icons?i=python" width="60" height="60" style="margin: 10px;">
-  <img src="https://skillicons.dev/icons?i=mysql" width="60" height="60" style="margin: 10px;">
-</div>
-
-<div align="center">
-  <strong>Dart</strong> • <strong>JavaScript</strong> • <strong>TypeScript</strong> • <strong>Python</strong> • <strong>SQL</strong>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dart,js,ts,python,mysql" />
+</p>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="⚙️" width="25" /> **Frameworks & Libraries**
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter" width="60" height="60" style="margin: 10px;">
-  <img src="https://skillicons.dev/icons?i=nextjs" width="60" height="60" style="margin: 10px;">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" style="margin: 10px;">
-  <img src="https://skillicons.dev/icons?i=express" width="60" height="60" style="margin: 10px;">
-  <img src="https://skillicons.dev/icons?i=html" width="60" height="60" style="margin: 10px;">
-</div>
-
-<div align="center">
-  <strong>Flutter</strong> • <strong>Next.js</strong> • <strong>Node.js</strong> • <strong>Express</strong> • <strong>HTML5 Canvas</strong>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,nextjs,nodejs,express,html" />
+</p>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Film%20Projector.png" alt="📽️" width="25" /> **Media Processing**
 
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/FFmpeg_Logo_new.svg" width="60" height="60" style="margin: 10px;">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hls.svg" width="60" height="60" style="margin: 10px; filter: invert(1);">
-</div>
-
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/FFmpeg_Logo_new.svg" width="48" height="48" style="margin: 0 4px;">
+  <img src="https://img.icons8.com/fluency/48/video-playlist.png" alt="HLS Streaming" style="margin: 0 4px;">
+</p>
+<p align="center">
   <strong>FFmpeg</strong> • <strong>HLS Streaming</strong>
-</div>
+</p>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="🧰" width="25" /> **Databases & Tools**
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" width="60" height="60" style="margin: 10px;">
-  <img src="https://skillicons.dev/icons?i=aws" width="60" height="60" style="margin: 10px;">
-  <img src="https://skillicons.dev/icons?i=vercel" width="60" height="60" style="margin: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" width="60" height="60" style="margin: 10px;">
-  <img src="https://skillicons.dev/icons?i=git" width="60" height="60" style="margin: 10px;">
-  <img src="https://skillicons.dev/icons?i=figma" width="60" height="60" style="margin: 10px;">
-</div>
-
-<div align="center">
-  <strong>MySQL</strong> • <strong>AWS S3</strong> • <strong>Vercel</strong> • <strong>WebSockets</strong> • <strong>Git</strong> • <strong>Figma</strong>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,aws,vercel,git,figma" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" width="48" height="48" style="margin: 0 4px;">
+</p>
 
 </div>
 

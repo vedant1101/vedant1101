@@ -15,25 +15,54 @@
 
 Check out my work contributions on my company account: [@vedant-Bigshorts](https://github.com/vedant-Bigshorts)
 
-### 📅 Contribution Graph
-![GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com/demo/contribution-graph-vedant-Bigshorts.svg?theme=dark)
+### 📅 GitHub Contribution Calendar
+![GitHub Contributions](https://ghchart.rshah.org/vedant-Bigshorts)
 
-### Alternative GitHub-Style Graphs:
-![Contribution Calendar](https://github-readme-activity-graph.vercel.app/graph?username=vedant-Bigshorts&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=f85149&area=true&hide_border=true&custom_title=Contribution%20Activity)
-
-### 📊 GitHub Statistics
+### 📊 Comprehensive GitHub Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vedant-Bigshorts&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff)
 
-### 🔥 Contribution Streak
+### 🔥 Contribution Streak Analytics
 ![GitHub Streak](https://streak-stats.demolab.com/?user=vedant-Bigshorts&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=F85149&currStreakNum=C9D1D9&sideNums=8B949E&currStreakLabel=C9D1D9&sideLabels=8B949E&dates=8B949E)
 
-### 🎯 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-Bigshorts&layout=compact&theme=dark&count_private=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e)
+### 📈 Detailed Activity Timeline
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vedant-Bigshorts&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=f85149&area=true&hide_border=true&custom_title=Annual%20Contribution%20Activity)
 
-### 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=vedant-Bigshorts&theme=darkhub&no-frame=true&margin-w=15&column=4)
+### 🎯 Programming Languages Breakdown
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-Bigshorts&layout=compact&theme=dark&count_private=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&langs_count=8)
+
+### 🏆 Achievement Trophies
+![Trophy](https://github-profile-trophy.vercel.app/?username=vedant-Bigshorts&theme=darkhub&no-frame=true&margin-w=15&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
+
+### 📋 Detailed Profile Analytics
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedant-Bigshorts&theme=github_dark)
+
+### 📊 Statistical Breakdown
+![Stats Overview](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vedant-Bigshorts&theme=github_dark) ![Commit Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vedant-Bigshorts&theme=github_dark)
+
+### 📈 Repository & Productivity Insights
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vedant-Bigshorts&theme=github_dark) ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vedant-Bigshorts&theme=github_dark&utcOffset=5.5)
+
+### 🎨 Alternative Contribution Visualizations
+**Standard Green Theme:**
+![Green Calendar](https://ghchart.rshah.org/39d353/vedant-Bigshorts)
+
+**GitHub Blue Theme:**
+![Blue Calendar](https://ghchart.rshah.org/0969da/vedant-Bigshorts)
+
+**Custom Purple Theme:**
+![Purple Calendar](https://ghchart.rshah.org/8b5cf6/vedant-Bigshorts)
+
+### 📊 Advanced Metrics
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=vedant-Bigshorts&theme=dark&hide_border=true&bg_color=0d1117)
+
+### 🔍 Repository Metrics
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vedant-Bigshorts&repo=your-main-repo&theme=dark&hide_border=true&bg_color=0d1117)
 
 ---
-📌 **[View Complete Company Profile →](https://github.com/vedant-Bigshorts)**
 
-*📅 All stats include private repository contributions • 🔄 Updates automatically*
+### 📌 Quick Links
+[![GitHub Profile](https://img.shields.io/badge/GitHub-vedant--Bigshorts-181717?style=for-the-badge&logo=github)](https://github.com/vedant-Bigshorts)
+[![Profile Views](https://komarev.com/ghpvc/?username=vedant-Bigshorts&color=58a6ff&style=for-the-badge&label=Profile+Views)](https://github.com/vedant-Bigshorts)
+
+---
+*📊 Comprehensive stats including private repositories • 🔄 Auto-updates every 24 hours • 🕒 Timezone: IST (UTC+5:30)*

@@ -162,14 +162,14 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://linkedin.com/in/your-profile">
+      <a href="https://linkedin.com/in/vedant-sahai-7b6bb7285)">
         <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=1E88E5"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="mailto:your.email@example.com">
+      <a href="mailto:vedant11112001@gmail.com">
         <img src="https://img.shields.io/badge/📧%20Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=E53935"/>
       </a>
     </td>

@@ -131,7 +131,16 @@
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vedant-Bigshorts&theme=tokyonight" width="400"/>
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-Bigshorts&layout=compact&theme=tokyonight&count_private=true&hide_border=true&border_radius=15&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&hide=html,css" width="400"/>
+      <div style="background: #1a1b27; border-radius: 15px; padding: 20px; width: 400px;">
+        <h3 style="color: #58a6ff; margin-bottom: 15px;">🎯 Top Languages</h3>
+        <div align="left">
+          <p style="color: #c9d1d9; margin: 8px 0;"><strong>Dart</strong> ████████████████░░░░ 80%</p>
+          <p style="color: #c9d1d9; margin: 8px 0;"><strong>JavaScript</strong> ██████████████░░░░░░ 70%</p>
+          <p style="color: #c9d1d9; margin: 8px 0;"><strong>TypeScript</strong> ████████████░░░░░░░░ 60%</p>
+          <p style="color: #c9d1d9; margin: 8px 0;"><strong>Python</strong> ██████████░░░░░░░░░░ 50%</p>
+          <p style="color: #c9d1d9; margin: 8px 0;"><strong>SQL</strong> ████████░░░░░░░░░░░░ 40%</p>
+        </div>
+      </div>
     </td>
   </tr>
   <tr>

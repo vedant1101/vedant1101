@@ -15,27 +15,44 @@
 
 Check out my work contributions on my company account: [@vedant-Bigshorts](https://github.com/vedant-Bigshorts)
 
+## 🏢 Professional GitHub Activity
+
+Check out my work contributions on my company account: [@vedant-Bigshorts](https://github.com/vedant-Bigshorts)
+
+### 📅 Contribution Graph
+![Company Contributions](https://ghchart.rshah.org/vedant-Bigshorts)
+
 ### 📊 GitHub Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vedant-Bigshorts&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true)
 
 ### 🔥 Contribution Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=vedant-Bigshorts&theme=dark&hide_border=true)
 
-### 📈 Contribution Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vedant-Bigshorts&theme=react-dark&hide_border=true&area=true)
+### 📈 Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vedant-Bigshorts&theme=react-dark&hide_border=true&area=true&custom_title=Company%20Account%20Activity)
 
 ### 🎯 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-Bigshorts&layout=compact&theme=dark&count_private=true&hide_border=true)
 
-### 🏆 Profile Trophy
-![Trophy](https://github-profile-trophy.vercel.app/?username=vedant-Bigshorts&theme=darkhub&no-frame=true&margin-w=15)
+### 🏆 GitHub Trophies
+![Trophy](https://github-profile-trophy.vercel.app/?username=vedant-Bigshorts&theme=darkhub&no-frame=true&margin-w=15&column=4)
 
-### 📋 Profile Summary
+### 📋 Profile Summary Cards
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedant-Bigshorts&theme=github_dark)
 
-![Stats Overview](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vedant-Bigshorts&theme=github_dark)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vedant-Bigshorts&theme=github_dark) ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vedant-Bigshorts&theme=github_dark)
 
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vedant-Bigshorts&theme=github_dark)
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vedant-Bigshorts&theme=github_dark) ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vedant-Bigshorts&theme=github_dark&utcOffset=5.5)
+
+### 🎨 Alternative Contribution Charts
+**Green Theme:** ![Green Contributions](https://ghchart.rshah.org/00d851/vedant-Bigshorts)
+
+**Blue Theme:** ![Blue Contributions](https://ghchart.rshah.org/409ba5/vedant-Bigshorts)
+
+---
+📌 **[View Complete Company Profile →](https://github.com/vedant-Bigshorts)**
+
+*📅 All stats include private repository contributions • 🔄 Updates automatically*
 
 ### 📱 Additional Metrics
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vedant-Bigshorts&theme=github_dark)

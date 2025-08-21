@@ -25,31 +25,40 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="💻" width="25" /> **Programming Languages**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,js,ts,python,mysql" />
+  <img src="https://skillicons.dev/icons?i=dart,js,ts,python,mysql&theme=dark&perline=5" width="300" />
 </p>
+
+<br>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="⚙️" width="25" /> **Frameworks & Libraries**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,nextjs,nodejs,express,html" />
+  <img src="https://skillicons.dev/icons?i=flutter,nextjs,nodejs,express,html&theme=dark&perline=5" width="300" />
 </p>
+
+<br>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Film%20Projector.png" alt="📽️" width="25" /> **Media Processing**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/FFmpeg_Logo_new.svg" width="48" height="48" style="margin: 0 4px;">
-  <img src="https://img.icons8.com/fluency/48/video-playlist.png" alt="HLS Streaming" style="margin: 0 4px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/FFmpeg_Logo_new.svg" width="60" height="60" style="margin: 0 20px;">
+  <img src="https://img.icons8.com/fluency/60/video-playlist.png" alt="HLS Streaming" style="margin: 0 20px;">
 </p>
 <p align="center">
   <strong>FFmpeg</strong> • <strong>HLS Streaming</strong>
 </p>
 
+<br>
+
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="🧰" width="25" /> **Databases & Tools**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,aws,vercel,git,figma" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" width="48" height="48" style="margin: 0 4px;">
+  <img src="https://skillicons.dev/icons?i=mysql,aws,vercel,git,figma&theme=dark&perline=5" width="300" />
+  <br><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" width="60" height="60" style="margin: 0 10px;">
+</p>
+<p align="center">
+  <strong>WebSockets</strong>
 </p>
 
 </div>

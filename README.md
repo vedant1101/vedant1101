@@ -15,8 +15,9 @@
 
 Check out my work contributions on my company account:
 
-[![Company GitHub](https://img.shields.io/badge/Company%20GitHub-@vedant-Bigshorts-blue?style=for-the-badge&logo=github)](https://github.com/vedant-Bigshorts)
+[![Company GitHub](https://img.shields.io/badge/Company%20GitHub-@vedant--Bigshorts-blue?style=for-the-badge&logo=github)](https://github.com/vedant-Bigshorts)
 
-![Company Stats](https://github-readme-stats.vercel.app/api?username=your-company-username&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-company-username&layout=compact&theme=dark)
+![Company Stats](https://github-readme-stats.vercel.app/api?username=vedant-Bigshorts&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-Bigshorts&layout=compact&theme=dark)
 

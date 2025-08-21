@@ -41,7 +41,7 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Film%20Projector.png" alt="📽️" width="25" /> **Media Processing**
 
 <p align="center">
-  <img src="https://img.icons8.com/color/60/video.png" alt="FFmpeg" style="margin: 0 20px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/FFmpeg_Logo_new.svg" width="60" height="60" style="margin: 0 20px; filter: invert(1); background: white; border-radius: 8px; padding: 4px;">
   <img src="https://img.icons8.com/fluency/60/video-playlist.png" alt="HLS Streaming" style="margin: 0 20px;">
 </p>
 <p align="center">
@@ -55,7 +55,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,aws,vercel,git,figma&theme=dark&perline=5" width="300" />
   <br><br>
-  <img src="https://img.icons8.com/color/60/websocket.png" alt="WebSockets" style="margin: 0 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" width="60" height="60" style="margin: 0 10px; filter: invert(1); background: white; border-radius: 8px; padding: 4px;">
 </p>
 <p align="center">
   <strong>WebSockets</strong>

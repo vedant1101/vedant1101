@@ -1,3 +1,11 @@
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="💡" width="30" /> **Fun Fact**
+*As a Full Stack Tech Lead, I love turning complex business requirements into elegant, scalable solutions while mentoring amazing developers! ✨*
+
+<br>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="📝" width="25" /> **Profile Stats Info**
+**📊 Comprehensive stats including private repositories • 🔄 Auto-updates every 24 hours • 🕒 Timezone: IST (UTC+5:30)**
+
 <br><div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
 </div>
@@ -41,7 +49,7 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Film%20Projector.png" alt="📽️" width="25" /> **Media Processing**
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/FFmpeg_Logo_new.svg" width="60" height="60" style="margin: 0 20px;">
+  <img src="https://img.icons8.com/color/60/video.png" alt="FFmpeg" style="margin: 0 20px;">
   <img src="https://img.icons8.com/fluency/60/video-playlist.png" alt="HLS Streaming" style="margin: 0 20px;">
 </p>
 <p align="center">
@@ -55,7 +63,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,aws,vercel,git,figma&theme=dark&perline=5" width="300" />
   <br><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" width="60" height="60" style="margin: 0 10px;">
+  <img src="https://img.icons8.com/color/60/websocket.png" alt="WebSockets" style="margin: 0 10px;">
 </p>
 <p align="center">
   <strong>WebSockets</strong>

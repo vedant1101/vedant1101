@@ -11,5 +11,12 @@
   <img src="https://github.com/vedant1101/vedant1101/assets/115668347/4663b93b-1355-4605-a6d9-688102627f71" width="100">
 </div>
 
+## 🏢 Professional GitHub Activity
 
+Check out my work contributions on my company account:
+
+[![Company GitHub](https://img.shields.io/badge/Company%20GitHub-@your--company--username-blue?style=for-the-badge&logo=github)](https://github.com/vedant-Bigshorts)
+
+![Company Stats](https://github-readme-stats.vercel.app/api?username=your-company-username&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-company-username&layout=compact&theme=dark)
 

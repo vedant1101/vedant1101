@@ -21,53 +21,107 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="🛠️" width="35" /> **MY TECH ARSENAL**
 
 <div align="center">
-  
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="💻" width="25" /> **Programming Languages**
+
 <table>
   <tr>
-    <td align="center" width="150" style="border: none;">
-      <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; padding: 20px; margin: 10px;">
-        <img src="https://github.com/vedant1101/vedant1101/assets/115668347/79016931-fc31-49e1-bc93-fe294991772f" height="80" width="80">
-        <br><br>
-        <strong style="color: #F7DF1E;">JavaScript</strong>
-      </div>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=dart" width="60" height="60">
+      <br><strong>Dart</strong>
     </td>
-    <td align="center" width="150" style="border: none;">
-      <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 15px; padding: 20px; margin: 10px;">
-        <img src="https://github.com/vedant1101/vedant1101/assets/115668347/bf0257b9-0243-4a5d-b559-3a3f8c88aec6" height="80" width="80">
-        <br><br>
-        <strong style="color: #61DAFB;">React</strong>
-      </div>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=js" width="60" height="60">
+      <br><strong>JavaScript</strong>
     </td>
-    <td align="center" width="150" style="border: none;">
-      <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 15px; padding: 20px; margin: 10px;">
-        <img src="https://github.com/vedant1101/vedant1101/assets/115668347/f9d2c96d-f101-43ad-854b-6822a51930fe" height="80" width="80">
-        <br><br>
-        <strong style="color: #68A063;">Node.js</strong>
-      </div>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=ts" width="60" height="60">
+      <br><strong>TypeScript</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=python" width="60" height="60">
+      <br><strong>Python</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=mysql" width="60" height="60">
+      <br><strong>SQL</strong>
+    </td>
+  </tr>
+</table>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="⚙️" width="25" /> **Frameworks & Libraries**
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=flutter" width="60" height="60">
+      <br><strong>Flutter</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="60" height="60">
+      <br><strong>Next.js</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60">
+      <br><strong>Node.js</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=express" width="60" height="60">
+      <br><strong>Express</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=html" width="60" height="60">
+      <br><strong>HTML5 Canvas</strong>
+    </td>
+  </tr>
+</table>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Film%20Projector.png" alt="📽️" width="25" /> **Media Processing**
+
+<table>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/FFmpeg_Logo_new.svg" width="60" height="60">
+      <br><strong>FFmpeg</strong>
+    </td>
+    <td align="center" width="150">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60" height="60">
+      <br><strong>HLS Streaming</strong>
+    </td>
+  </tr>
+</table>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="🧰" width="25" /> **Databases & Tools**
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=mysql" width="60" height="60">
+      <br><strong>MySQL</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=aws" width="60" height="60">
+      <br><strong>AWS S3</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=vercel" width="60" height="60">
+      <br><strong>Vercel</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" width="60" height="60">
+      <br><strong>WebSockets</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=git" width="60" height="60">
+      <br><strong>Git</strong>
     </td>
   </tr>
   <tr>
-    <td align="center" width="150" style="border: none;">
-      <div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); border-radius: 15px; padding: 20px; margin: 10px;">
-        <img src="https://github.com/vedant1101/vedant1101/assets/115668347/0211dd59-c57a-4e4e-bd4a-0dec125ead60" height="80" width="80">
-        <br><br>
-        <strong style="color: #3776AB;">Python</strong>
-      </div>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=figma" width="60" height="60">
+      <br><strong>Figma</strong>
     </td>
-    <td align="center" width="150" style="border: none;">
-      <div style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); border-radius: 15px; padding: 20px; margin: 10px;">
-        <img src="https://github.com/vedant1101/vedant1101/assets/115668347/e9fae745-356f-49ce-8261-d356d9bde4f0" height="80" width="80">
-        <br><br>
-        <strong style="color: #47A248;">MongoDB</strong>
-      </div>
-    </td>
-    <td align="center" width="150" style="border: none;">
-      <div style="background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%); border-radius: 15px; padding: 20px; margin: 10px;">
-        <img src="https://github.com/vedant1101/vedant1101/assets/115668347/4663b93b-1355-4605-a6d9-688102627f71" height="80" width="80">
-        <br><br>
-        <strong style="color: #2496ED;">Docker</strong>
-      </div>
-    </td>
+    <td colspan="4"></td>
   </tr>
 </table>
 
